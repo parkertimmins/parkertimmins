@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome to my github page!
+
+
+Hello, thanks for dropping by! My name is Parker and I'm a software engineer with an interest in Database systems and Geospatial systems. 
+I recently (Nov '23) finished a master's focused on database systems at the Technical University of Munich. 
+
+You can find some of my past projects on my [personal website](https://www.parkertimmins.com/), or dig through the code here on github.
+Lately, I've been working on a little [star map](https://www.parkertimmins.com/celestial-sphere) application. I haven't added it to my site yet, as I'd like to accompany it with an explanatory blog post. But if you're interested, check it out! (It only works on mobile).
+
+If you'd like to get in touch, send me a message at the committer email in some of my most recent commits.
+
 
 <!--
 **parkertimmins/parkertimmins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
